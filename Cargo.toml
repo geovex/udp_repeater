@@ -1,0 +1,9 @@
+[package]
+name = "udp_repeater"
+version = "0.1.0"
+authors = ["Heorhi Valakhanovich <valahanovich@tut.by>"]
+edition = "2018"
+
+[dependencies]
+clap = "*"
+net2 = "*"
